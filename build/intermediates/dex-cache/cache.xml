@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Projects\AndroidStudioProjects\SampleTutorials\CarFinder\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Projects\AndroidStudioProjects\SampleTutorials\CarFinder\app\build\intermediates\pre-dexed\debug\classes-12e22b464f35b4429ae59a407d030c09f544735e.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudioProjects\SampleTutorials\CarFinder\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="E:\Projects\AndroidStudioProjects\SampleTutorials\CarFinder\app\build\intermediates\pre-dexed\debug\classes-1debdc159379d398a4c546f48327b1e99b4c313f.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudioProjects\SampleTutorials\CarFinder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Projects\AndroidStudioProjects\SampleTutorials\CarFinder\app\build\intermediates\pre-dexed\debug\classes-31b3ac8f0c697af0141b291b6cf39f390373fae0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Krishanthan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Projects\AndroidStudioProjects\SampleTutorials\CarFinder\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d82161a6ee67d99888b6a16e38291822d982046e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Krishanthan\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.15\9093a362d18c5f81f58e49d86dece57d9b6e1cb7\library-1.0.15.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="E:\Projects\AndroidStudioProjects\SampleTutorials\CarFinder\app\build\intermediates\pre-dexed\debug\library-1.0.15-3481e4d51d2e435e35629ba160f55b2f2f9141ca.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudioProjects\SampleTutorials\CarFinder\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Projects\AndroidStudioProjects\SampleTutorials\CarFinder\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-33ce5decbdb84c6a45bf1cec6825877c01779098.jar" />
+    </item>
+
+</items>

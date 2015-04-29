@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/menuBackground"
+    android:clickable="true"
+    tools:context="dps924.master.krishanthan.carfinder.NavigationDrawerFragment">
+
+    <TextView
+        android:id="@+id/NavTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Your Favorites:"
+        android:textColor="@color/primaryColor"
+        android:textSize="@dimen/abc_text_size_title_material" />
+
+    <View
+        android:id="@+id/topbar"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/NavTitle"
+        android:background="@android:color/darker_gray" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/drawerList"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/botBar"
+        android:layout_below="@+id/topbar" />
+
+    <View
+        android:id="@+id/botBar"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_above="@+id/viewAllFav"
+        android:background="@android:color/darker_gray" />
+
+    <TextView
+        android:id="@+id/viewAllFav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:clickable="true"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="View All Favorites"
+        android:textColor="@color/primaryColor"
+        android:textSize="@dimen/abc_text_size_title_material" />
+
+</RelativeLayout>

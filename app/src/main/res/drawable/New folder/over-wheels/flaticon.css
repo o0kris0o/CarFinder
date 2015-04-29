@@ -1,0 +1,166 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-all3:before {
+	content: "\e000";
+}
+.flaticon-bike6:before {
+	content: "\e001";
+}
+.flaticon-black186:before {
+	content: "\e002";
+}
+.flaticon-black187:before {
+	content: "\e003";
+}
+.flaticon-bus20:before {
+	content: "\e004";
+}
+.flaticon-car61:before {
+	content: "\e005";
+}
+.flaticon-car62:before {
+	content: "\e006";
+}
+.flaticon-car63:before {
+	content: "\e007";
+}
+.flaticon-car64:before {
+	content: "\e008";
+}
+.flaticon-car65:before {
+	content: "\e009";
+}
+.flaticon-car66:before {
+	content: "\e00a";
+}
+.flaticon-car67:before {
+	content: "\e00b";
+}
+.flaticon-car69:before {
+	content: "\e00c";
+}
+.flaticon-car70:before {
+	content: "\e00d";
+}
+.flaticon-car71:before {
+	content: "\e00e";
+}
+.flaticon-car72:before {
+	content: "\e00f";
+}
+.flaticon-carriage:before {
+	content: "\e010";
+}
+.flaticon-commercial8:before {
+	content: "\e011";
+}
+.flaticon-convertible1:before {
+	content: "\e012";
+}
+.flaticon-deliver:before {
+	content: "\e013";
+}
+.flaticon-delivery8:before {
+	content: "\e014";
+}
+.flaticon-hatchback1:before {
+	content: "\e015";
+}
+.flaticon-hatchback:before {
+	content: "\e016";
+}
+.flaticon-lowered:before {
+	content: "\e017";
+}
+.flaticon-motorcycle2:before {
+	content: "\e018";
+}
+.flaticon-motorcycle3:before {
+	content: "\e019";
+}
+.flaticon-motorcycle4:before {
+	content: "\e01a";
+}
+.flaticon-over1:before {
+	content: "\e01b";
+}
+.flaticon-personal7:before {
+	content: "\e01c";
+}
+.flaticon-pick2:before {
+	content: "\e01d";
+}
+.flaticon-racing1:before {
+	content: "\e01e";
+}
+.flaticon-racing:before {
+	content: "\e01f";
+}
+.flaticon-scooter5:before {
+	content: "\e020";
+}
+.flaticon-scooter6:before {
+	content: "\e021";
+}
+.flaticon-single17:before {
+	content: "\e022";
+}
+.flaticon-skate:before {
+	content: "\e023";
+}
+.flaticon-small149:before {
+	content: "\e024";
+}
+.flaticon-small150:before {
+	content: "\e025";
+}
+.flaticon-sport8:before {
+	content: "\e026";
+}
+.flaticon-sport9:before {
+	content: "\e027";
+}
+.flaticon-sportive19:before {
+	content: "\e028";
+}
+.flaticon-sportive21:before {
+	content: "\e029";
+}
+.flaticon-sports25:before {
+	content: "\e02a";
+}
+.flaticon-taxi8:before {
+	content: "\e02b";
+}
+.flaticon-top4:before {
+	content: "\e02c";
+}
+.flaticon-truck13:before {
+	content: "\e02d";
+}
+.flaticon-truck14:before {
+	content: "\e02e";
+}
+.flaticon-van11:before {
+	content: "\e02f";
+}
+.flaticon-van12:before {
+	content: "\e030";
+}
+.flaticon-van13:before {
+	content: "\e031";
+}
